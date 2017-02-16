@@ -1,7 +1,7 @@
 function cdiff_test
 %CDIFF_TEST  
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 10-30-13
+%   Andrew D. Horchler, horchler @ gmail . com, Created 10-30-13
 %   Revision: 1.0, 10-30-13
 
 

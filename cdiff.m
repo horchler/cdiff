@@ -18,7 +18,7 @@ function [d,err]=cdiff(f,x,n)
 %   Inspired by:
 %   http://blogs.mathworks.com/cleve/2013/10/14/complex-step-differentiation/
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 7-7-13
+%   Andrew D. Horchler, horchler @ gmail . com, Created 7-7-13
 %   Revision: 1.0, 10-30-13
 
 
