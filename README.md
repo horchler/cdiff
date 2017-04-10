@@ -1,8 +1,8 @@
 cdiff
 ========
-#####First- and second-order [complex step derivative](http://blogs.mathworks.com/cleve/2013/10/14/complex-step-differentiation/) approximation.#####
-######Version 1.0, 10-30-13######
-#####Download Repository: [ZIP Archive](https://github.com/horchler/cdiff/archive/master.zip)#####
+##### First- and second-order [complex step derivative](http://blogs.mathworks.com/cleve/2013/10/14/complex-step-differentiation/) approximation.
+###### Version 1.0, 10-30-13
+##### Download Repository: [ZIP Archive](https://github.com/horchler/cdiff/archive/master.zip)
 
 --------
 
